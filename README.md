@@ -1,5 +1,5 @@
 # my-first-repo
-Hello I'm *Hamza*  
+Hello I'm **Hamza**  
 23 years old and i have a degree in Mechanical Engineering.
 
 + My [github](https://github.com/Dawahreh)
